@@ -1,4 +1,4 @@
-//Program to concatenate two strings
+//Program to concatenate two lists
 
 #include<stdio.h>
 #include<stdlib.h>

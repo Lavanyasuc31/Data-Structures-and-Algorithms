@@ -1,3 +1,5 @@
+//Program to search an element in the list
+
 #include<stdio.h>
 #include<stdlib.h>
  struct node
